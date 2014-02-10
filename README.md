@@ -3,6 +3,8 @@ CNC-Toolbox
 
 This is a CNC made toolbox that you can built with a small CNC machine like the ShopBot Handibot
 
+https://www.youtube.com/watch?v=eiZ6DxULJhg
+
 The project is a derivitive of the Sketchup model that is found here:
 
 http://www.highlandwoodworking.com/woodnews/2009october/sketchup.html
