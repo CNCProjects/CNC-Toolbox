@@ -15,7 +15,7 @@ I cut this on a Handibot with a 1/4" straight router bit.
 
 The Sketchup model (3d) is included here. To cut this I took that model and I laid it out flat and then I exported it to DXF so that I could later import it into VCarve to setup my toolpaths. My toolpaths that I used are included (They are setup for a 1/4" bit and are already tabbed)
 
-Please note that the Sketchup model is done with 0 clearance where parts have to fit into one another. The DXF file has "Dog bones" in it so that parts can pass through. I built this box once, and with 0 clearance it worked, but I had to hammer the parts into the slots quite a bit. Depending on the wood and humidity, I would allow some clearance in the openings, even if only a little. This can make it much easier to assemble, especially if you apply some wood glue.
+Please note that the Sketchup model is done with 0 clearance where parts have to fit into one another. The DXF file has "Dog bones" in it so that parts can pass through as well as a little bit of clearance for parts to pass through. I built this box once, and with 0 clearance it worked, but I had to hammer the parts into the slots quite a bit.
 
 The toolpaths are setup to be cut on a Handibot using 6"x6" tiles. In the cutting files folder you will find every tile that is needed to cut it out, along with a map that shows each tile number and where it coresponds to the design.
 
